@@ -1,0 +1,1 @@
+export const simpleRandomNumber = async () => Math.round(Math.random() * 100);
